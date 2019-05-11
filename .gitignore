@@ -1,0 +1,7 @@
+delta.sql
+.vs
+*.dbmdl
+/src/CentralDB/bin/*
+/src/CentralDB/obj/*
+/src/CentralDB/CentralDB.jfm
+/src/CentralDB/PostDeployment/SchemaVersion.sql

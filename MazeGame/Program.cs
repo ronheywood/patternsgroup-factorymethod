@@ -9,7 +9,8 @@ namespace MazeGame
     {
         private static void Main(string[] args)
         {
-            var maze = MazeGame.MakeMaze();
+            var game = new MazeGame();
+            var maze = game.MakeMaze();
             Console.WriteLine(maze.rooms.FirstOrDefault());
         }
     }

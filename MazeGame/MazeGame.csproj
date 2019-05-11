@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MazeElements\BombedMaze\BombedRoom.cs" />
     <Compile Include="MazeElements\BombedMaze\BombedWall.cs" />
     <Compile Include="MazeElements\Door.cs" />
     <Compile Include="MazeElements\EnchantedMaze\EnchantedWall.cs" />

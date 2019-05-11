@@ -4,7 +4,8 @@
     {
         public override string ToString()
         {
-            return "You are in a Magic Room. The walls seem to shimmer with potential.";
+            var room = string.Join("\r\n", _sides);
+            return $"You are in a Magical Realm. You see\r\n{room}.\r\n{_exits}";
         }
     }
 }

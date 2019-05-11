@@ -5,7 +5,7 @@ namespace MazeGame
 {
     public class MazeGame
     {
-        public Maze MakeMaze()
+        public Maze CreateMaze()
         {
             var maze = new Maze();
             var room1 = new Room();

@@ -1,6 +1,6 @@
-﻿namespace MazeGame
+﻿namespace MazeGame.MazeElements.EnchantedMaze
 {
-    public class MagicRoom : Room
+    public class EnchantedRoom : Room
     {
         public override string ToString()
         {

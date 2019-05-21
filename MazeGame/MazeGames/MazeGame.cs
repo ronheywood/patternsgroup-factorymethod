@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using MazeGame.MazeElements.BombedMaze;
+using MazeGame.MazeGames;
 
 namespace MazeGame
 {

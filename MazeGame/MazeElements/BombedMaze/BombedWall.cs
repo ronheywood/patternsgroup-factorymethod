@@ -1,6 +1,6 @@
 ﻿namespace MazeGame.MazeElements.BombedMaze
 {
-    class BombedWall : Wall
+    public class BombedWall : Wall
     {
         public override string ToString()
         {

@@ -49,7 +49,7 @@
     <Compile Include="MazeElements\EnchantedMaze\EnchantedWall.cs" />
     <Compile Include="MazeGames\Enums\Direction.cs" />
     <Compile Include="MazeElements\EnchantedMaze\EnchantedRoom.cs" />
-    <Compile Include="MazeGames\Maze.cs" />
+    <Compile Include="MazeGames\MapSte.cs" />
     <Compile Include="MazeGames\MazeGame.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

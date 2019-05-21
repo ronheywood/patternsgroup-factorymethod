@@ -1,17 +1,15 @@
 ﻿using System;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MazeGame
 {
-    class Program
+    public class Program
     {
-        private static void Main(string[] args)
+        public static void Main()
         {
             var game = new MazeGame();
             var maze = game.CreateMaze();
-            Console.WriteLine(maze.rooms.FirstOrDefault());
+            Console.WriteLine(maze.Rooms.FirstOrDefault());
             Console.ReadKey();
         }
     }

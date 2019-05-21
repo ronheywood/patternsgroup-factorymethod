@@ -1,13 +1,13 @@
 ﻿using System.Collections.Generic;
 
-namespace MazeGame
+namespace MazeGame.MazeGames
 {
     public class MapSite
     {
-        public List<Room> rooms = new List<Room>();
+        public List<Room> Rooms = new List<Room>();
         public  void AddRooms(List<Room> roomsToAdd)
         {
-            rooms.AddRange(roomsToAdd);
+            Rooms.AddRange(roomsToAdd);
         }
     }
 }

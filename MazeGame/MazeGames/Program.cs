@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace MazeGame
+namespace MazeGame.MazeGames
 {
     public class Program
     {

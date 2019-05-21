@@ -51,7 +51,7 @@
     <Compile Include="MazeElements\EnchantedMaze\EnchantedRoom.cs" />
     <Compile Include="MazeGames\MapSte.cs" />
     <Compile Include="MazeGames\MazeGame.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="MazeGames\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MazeElements\Room.cs" />
     <Compile Include="MazeElements\Wall.cs" />

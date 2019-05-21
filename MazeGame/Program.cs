@@ -12,6 +12,7 @@ namespace MazeGame
             var game = new MazeGame();
             var maze = game.CreateMaze();
             Console.WriteLine(maze.rooms.FirstOrDefault());
+            Console.ReadKey();
         }
     }
 }
